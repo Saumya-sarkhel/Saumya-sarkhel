@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Saumya, Just a guy doing stuff 
+- 🔭 I’m currently working on my DSA foundation
 <!--
 **SaumyaSarkhel/SaumyaSarkhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
