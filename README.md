@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Saumya
 - 🔭 I’m currently working on my DSA foundation
-- 🌱 Rookie profile [Click here](https://saumyasarkhel.github.io/saumya.dev/)
+- 🌱 Rookie profile [Click here](https://saumya-sarkhel.github.io/saumya.dev/)
 <!--
 **SaumyaSarkhel/SaumyaSarkhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
