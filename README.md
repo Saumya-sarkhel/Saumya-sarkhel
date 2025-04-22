@@ -1,7 +1,7 @@
-## Hi there 👋
-### I'm Saumya
+## Hi there 👋🏻 I am Saumya
+
 - 🔭 I’m currently learning DSA
-- ⚡ Exploring App dev (flutter)
+- ⚡ Solving problems and building core
 - 🌱 Rookie profile [Click here](https://saumya-dev.netlify.app/)
 <!--
 **SaumyaSarkhel/SaumyaSarkhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
