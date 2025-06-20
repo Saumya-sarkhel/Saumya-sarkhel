@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋🏻 I am Saumya</h1>
 
-<h4> I’m currently learning DSA </h4>
+<h4> 🔭 I’m currently learning DSA </h4>
 <h4> ⚡ Solving problems and building core </h4>
 <h4> 🌱 Rookie profile <a href="https://saumya-dev.netlify.app/">Click here</a> </h4>
 
