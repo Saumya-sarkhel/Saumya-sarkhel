@@ -12,7 +12,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,vscode,neovim,git,github" />
 </a><br><br>
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumya-sarkhel&langs_count=6&show_icons=true&locale=en&layout=compact&theme=dark" alt="saumya-sarkhel" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=190 align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+
 </div>
 
 
