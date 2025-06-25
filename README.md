@@ -1,22 +1,20 @@
-<div align="center">
+<h1 align="left">Hi there 👋🏻 I am Saumya</h1>
 
-<h1>Hi there 👋🏻 I am Saumya</h1>
+- 🌱 **I’m currently learning Java**<br>
+- 🔭 **I’m working on DSA**<br>
+- ⚡ **Solving problems and building core**<br>
+- 📫 **Rookie profile <a href="https://saumya-dev.netlify.app/">Click here**</a>
 
-<h4> 🔭 I’m currently learning DSA </h4>
-<h4> ⚡ Solving problems and building core </h4>
-<h4> 🌱 Rookie profile <a href="https://saumya-dev.netlify.app/">Click here</a> </h4>
-
-</div>
-
-<div align="center">
+<div>
 
 <h2>⚒️ Languages - Tools - Frameworks ⚒️</h2>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,vscode,neovim,git,github" />
-</a>
+</a><br><br>
 
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumya-sarkhel&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="saumya-sarkhel" /></p>
 </div>
+
 
 <!--
 **SaumyaSarkhel/SaumyaSarkhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
