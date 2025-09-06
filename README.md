@@ -3,7 +3,9 @@
 <div align="center">
   
   🌱 **I’m currently learning Java and DSA**<br>
+  
   ⚡ **Solving problems and building core**<br>
+  
   📫 **Rookie profile <a href="https://saumya-dev.netlify.app/">Click here**</a>
 </div>
 
