@@ -1,7 +1,6 @@
 <h1 align="left">Hi there 👋🏻 I am Saumya</h1>
 
-- 🌱 **I’m currently learning Java**<br>
-- 🔭 **I’m working on DSA**<br>
+- 🌱 **I’m currently learning Java and DSA**<br>
 - ⚡ **Solving problems and building core**<br>
 - 📫 **Rookie profile <a href="https://saumya-dev.netlify.app/">Click here**</a>
 
@@ -12,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,vscode,neovim,git,github" />
 </a><br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=190 align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=195 align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45475a"/></a>
 
 </div>
 
