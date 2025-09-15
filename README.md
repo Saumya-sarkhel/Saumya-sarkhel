@@ -13,7 +13,7 @@
 
 <h3> Languages - Tools - Frameworks </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,vscode,neovim,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bash,vscode,neovim,git,github" />
 </a><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=195 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
