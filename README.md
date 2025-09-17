@@ -15,13 +15,34 @@
 </h3><br>
 
 <div align="center">
+  <h2> Languages - Tools - Frameworks </h2>
+  
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="js logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
 
-<h3> Languages - Tools - Frameworks </h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bash,vscode,neovim,git,github" />
-</a><br><br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=200 width=350 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
+<div align="center">
+<br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=190 width=350 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
 </div>
 
 
