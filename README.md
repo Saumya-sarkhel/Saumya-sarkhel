@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="https://github.com/Saumya-sarkhel/Saumya-sarkhel/blob/main/github-header-banner-1.png" alt="logo" width="700">
-</p>
 
-<!--
 <h1 align="center">Hi there 👋🏻 I am Saumya</h1>
--->
-<h3 align="center">
+
+<h4 align="center">
   
   🌱 I’m currently learning Java and DSA <br>
   
   ⚡ Solving problems and building core <br>
   
   🔭 Rookie profile <a href="https://saumya-dev.netlify.app/">Click here </a>
-</h3><br>
+</h4><br>
 
 <div align="center">
   <h2> Languages - Tools - Frameworks </h2>
@@ -22,7 +18,7 @@
 </div>
 <div align="center">
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=190 width=350 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=180 width=320 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
 </div>
 
 
