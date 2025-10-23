@@ -1,25 +1,39 @@
+# Hi, I'm Saumya 👋🏻
 
-<h1 align="center">Hi there 👋🏻 I am Saumya</h1>
+**🌱 Currently learning Java and DSA**<br>
+**⚡ Focused on  Solving problems and building strong core foundations**<br>
+**🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)**
 
-<h4 align="center">
-  
-  🌱 I’m currently learning Java and DSA <br>
-  
-  ⚡ Solving problems and building core <br>
-  
-  🔭 Rookie profile <a href="https://saumya-dev.netlify.app/">Click here </a>
-</h4><br>
+---
 
-<div align="center">
-  <h2> Languages - Tools - Frameworks </h2>
-  
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bash,vscode,neovim,git,github" />
-  
+<h2> Languages · Tools · Frameworks </h2>
+<div class="image">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bash,vscode,vim,neovim,git,github,mysql"
+       alt="Skills"
+       width="500"
+       height="auto" />
 </div>
-<div align="center">
-<br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height=180 width=320 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&title_color=cba6f1&theme=radical&border_color=45472a"/></a>
-</div>
+
+<!--
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+-->
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&theme=radical)
+
 
 
 <!--
