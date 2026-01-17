@@ -4,6 +4,11 @@
 **⚡ Focused on  Solving problems and building strong core foundations**<br>
 **🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/saumyajit-sarkhel-a49080286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saumyajit sarkhel" height="30" width="40" /></a>
+</p>
+
 
 <h3> Languages · Tools · Frameworks </h3>
 <div class="image">
@@ -12,6 +17,8 @@
        width="500"
        height="auto" />
 </div>
+
+
 
 <!--
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
