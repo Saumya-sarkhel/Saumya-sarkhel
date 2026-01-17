@@ -4,9 +4,8 @@
 **⚡ Focused on  Solving problems and building strong core foundations**<br>
 **🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)**
 
----
 
-<h2> Languages · Tools · Frameworks </h2>
+<h3> Languages · Tools · Frameworks </h3>
 <div class="image">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bash,vscode,vim,neovim,git,github,mysql"
        alt="Skills"
@@ -30,10 +29,11 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 -->
----
 
+
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-sarkhel&layout=compact&theme=radical)
-
+-->
 
 
 <!--
