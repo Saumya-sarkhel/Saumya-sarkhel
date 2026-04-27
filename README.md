@@ -1,6 +1,6 @@
 # Hi, I'm Saumya 👋🏻
 
-**🌱 Currently learning Java and DSA**<br>
+**🌱 Currently learning Java and Backend**<br>
 **⚡ Focused on  Solving problems and building strong core foundations**<br>
 **🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)**
 
@@ -12,9 +12,9 @@
 
 <h3> Languages · Tools · Frameworks </h3>
 <div class="image">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bash,vscode,vim,neovim,git,github,mysql"
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,hibernate,spring,mysql,html,css,js,vscode,idea,eclipse,git,github"
        alt="Skills"
-       width="500"
+       width="650"
        height="auto" />
 </div>
 
