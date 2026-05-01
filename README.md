@@ -1,13 +1,19 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Saumya-sarkhel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 # Hi, I'm Saumya 👋🏻
 
-**🌱 Currently learning Java and Backend**<br>
-**⚡ Focused on  Solving problems and building strong core foundations**<br>
-**🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)**
+🌱 I’m currently learning Java, Spring Boot, and backend development <br>
+🎯 I like building web projects and exploring AI tools <br>
+⚡ Focused on solving problems and building strong core foundations <br>
+📫 Reach me here: zsh.saumya@gmail.com <br>
+🔭 Rookie Profile 👉🏻 [Click here](https://saumya-sarkhel.github.io/Saumya.dev/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saumyajit-sarkhel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saumyajit sarkhel" height="auto" width="30" /></a>
-</p>
 
 
 <h3> Languages · Tools · Frameworks </h3>
@@ -17,7 +23,6 @@
        width="650"
        height="auto" />
 </div>
-
 
 
 <!--
